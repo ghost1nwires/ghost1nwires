@@ -15,7 +15,13 @@
 
 ###
 
-<h3 align="center">Hola! 👋</h3>
+<div align="center">
+  <img src="https://count.getloli.com/@:ghost1nwires?theme=love-and-deepspace&padding=4&scale=0.5&align=top&pixelated=1&darkmode=0"  />
+</div>
+
+###
+
+<h3 align="left">Hola! 👋</h3>
 
 ###
 
@@ -49,7 +55,10 @@
 
 ###
 
-<h3 align="left">   My Stats :</h3>
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghost1nwires/ghost1nwires/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ghost1nwires/ghost1nwires/output/pacman-contribution-graph.svg">
@@ -57,7 +66,3 @@
 </picture>
 
 ###
- 
-<h3 align="left">   THM :</h3>
-<img src="https://tryhackme-badges.s3.amazonaws.com/Youngzee.png" alt="TryHackMe">
-
