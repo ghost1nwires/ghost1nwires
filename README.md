@@ -49,10 +49,15 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">   My Stats :</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghost1nwires/ghost1nwires/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ghost1nwires/ghost1nwires/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ghost1nwires/ghost1nwires/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
  
-
+<h3 align="left">   THM :</h3>
 <img src="https://tryhackme-badges.s3.amazonaws.com/Youngzee.png" alt="TryHackMe">
 
