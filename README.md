@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🔭 I’m working as Security Analyst<br>👩‍💻 I'm currently interested in Windows Advanced Threat Research, Malware Analysis, and reversing<br>⚡ In my free time I code, and grind<br><br>//</p>
+<p align="left">🔭 I’m working as Security Analyst<br>👩‍💻 I'm currently interested in Windows Advanced Threat Research, Malware Analysis, and reversing<br>⚡ In my free time I code, play CTF, and grind<br><br>//</p>
 
 ###
 
@@ -22,6 +22,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img width="12" />
 </div>
 
 ###
@@ -40,10 +44,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
+  
 </div>
 
 ###
