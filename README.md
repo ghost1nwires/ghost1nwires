@@ -1,4 +1,4 @@
-<img align="left" height="200" src="https://giffiles.alphacoders.com/222/222456.gif"  />
+<img align="center" height="200" src="https://giffiles.alphacoders.com/222/222456.gif"  />
 
 ###
 
