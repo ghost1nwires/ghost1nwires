@@ -2,32 +2,11 @@
 
 ###
 
-<div align="left">
-  <a href="https://x.com/ghost1nwires" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="ghost1nwires" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  </a>
-</div>
-
-###
-
-<div align="left">
-  <img src="https://count.getloli.com/@:ghost1nwires?theme=love-and-deepspace&padding=4&scale=0.5&align=center&pixelated=1&darkmode=0"  />
-</div>
-
-###
-
-<p align="left">/</p>
-
-###
-
 <h4 align="left">👩‍💻  Hello there, I'm Hanifah A 👋</h4>
 
 ###
 
-<p align="left">🔭 I’m working as Security Analyst<br>👩‍💻 I'm currently interested in Windows Advanced Threat Research, Malware Analysis, and reversing<br>⚡ In my free time I code, and grind</p>
+<p align="left">🔭 I’m working as Security Analyst<br>👩‍💻 I'm currently interested in Windows Advanced Threat Research, Malware Analysis, and reversing<br>⚡ In my free time I code, and grind<br><br>//</p>
 
 ###
 
