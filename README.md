@@ -1,5 +1,7 @@
 <img align="center" height="200" src="https://giffiles.alphacoders.com/222/222456.gif"  />
 
+![ghost's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghost1nwires&show_icons=true&theme=transparent)
+
 ###
 
 <h4 align="left">👩‍💻  Hello there, I'm Hanifah A 👋</h4>
