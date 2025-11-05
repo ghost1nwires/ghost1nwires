@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">🔭 I’m working as Security Analyst<br>👩‍💻 I'm currently interested in Windows Advanced Threat Research, Malware Analysis, and reversing<br>⚡ In my free time I code, play CTF, and grind<br><br>//</p>
+<p align="left">🔭 I’m working as Security Analyst<br>👩‍💻 I'm interested in coding, reversing, and anything that sparks my curiosity in cybersecurity. <br>⚡ In my free time I code, gaming, play CTF, and grind<br><br>//</p>
 
 ###
 
